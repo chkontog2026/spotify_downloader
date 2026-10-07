@@ -1,0 +1,4 @@
+spotdl>=4.5.0
+mutagen>=1.47.0
+pillow>=10.0.0
+ttkbootstrap>=2.1.0,<3.0

@@ -1,0 +1,34 @@
+# Build & Dist directories (PyInstaller, Android, etc.)
+build/
+build_*/
+dist/
+dist_*/
+installer/
+releases/
+android/
+android-releases/
+
+# Python cache & logs
+__pycache__/
+*.pyc
+*.log
+*.out
+*.err
+
+# Media & Large files
+*.webm
+*.mp3
+*.flac
+*.m4a
+*.wav
+*.zip
+*.tar.gz
+*.exe
+
+# IDE / Editor folders
+.codex-remote-attachments/
+.vscode/
+
+# Environment / Secrets
+.env
+.env.*
